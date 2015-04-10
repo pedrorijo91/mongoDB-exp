@@ -15,6 +15,24 @@ hs_err_pid*
 *.class
 *.log
 
+# Eclipse #
+.settings/
+.project
+.classpath
+output/
+
+# IntelliJ #
+
+.idea/
+*.iml
+
+# Maven #
+target/
+bin/
+
+/target
+/target/
+
 # sbt specific
 .cache
 .history
